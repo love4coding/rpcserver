@@ -8,7 +8,7 @@ import com.study.rpcserver.api.CommonService;
 import org.springframework.stereotype.Service;
 
 /**
- *
+ * 测试服务
  * @author yalinli
  * @version $Id: CommonServiceImpl.java, v 0.1 2018-12-10 21:09 yalinli Exp $$
  */
